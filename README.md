@@ -1,6 +1,6 @@
-Personal STM32 projects created with Nucleo F446RE Development board
-This repo contains embedded systems projects created with the STM Nucleo64 STM32F446RE board.
-Each folder contains a different project and contains sources, drivers, and an ioc hardware file.
+Personal STM32 projects created with Nucleo F446RE Development board  
+This repo contains embedded systems projects created with the STM Nucleo64 STM32F446RE board.  
+Each folder contains a different project and contains sources, drivers, and an ioc hardware file.  
 
 Hardware Info:
 - Board: STM32F446RE Nucleo-64
