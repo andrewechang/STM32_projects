@@ -1,9 +1,0 @@
-LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=aarch64
-LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
-LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:project_0_blinkLED
-eclipse.preferences.version=1
-org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:project1_testProject\ Debug/activeLaunchMode=run
-org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:project1_testProject\ Debug/activeLaunchTarget=null\:---
-org.eclipse.launchbar.core.descriptorType.default\:project_0_blinkLED/activeLaunchMode=run
-org.eclipse.launchbar.core.descriptorType.default\:project_0_blinkLED/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
