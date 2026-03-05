@@ -1,6 +1,8 @@
+##README  
 Personal STM32 projects created with Nucleo F446RE Development board  
 This repo contains embedded systems projects created with the STM Nucleo64 STM32F446RE board.  
 Each folder contains a different project and contains sources, drivers, and an ioc hardware file.  
+Project names and goals of each project are included as well.  
 
 Hardware Info:
 - Board: STM32F446RE Nucleo-64
@@ -16,3 +18,8 @@ Development Environment:
 - Programmer: ST-Link (on-board)
 - Framework: HAL
 - OS: Windows 10 and MacOS 26
+
+##PROJECTS:
+Project 0: project_0_blinkLED  
+Goal: Get a starter project going that blinks the LED on the Nucleo board (LD2) without extra hardware connections needed
+Finish date: 2026 Mar 5
