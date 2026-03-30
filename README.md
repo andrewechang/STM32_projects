@@ -21,5 +21,10 @@ Development Environment:
 
 ## PROJECTS:
 Project 0: project_0_blinkLED  
-Goal: Get a starter project going that blinks the LED on the Nucleo board (LD2) without extra hardware connections needed
-Finish date: 2026 Mar 5
+Goal: Get a starter project going that blinks the LED on the Nucleo board (LD2) without extra hardware connections needed  
+
+Project 1: project_1_LED_button_control  
+Goal: Control an LED using the button that is on the Nucleo board, no extra hardware connections needed  
+
+Project 2: project_2_LED_rotary_control  
+Goal: Contro an LED using a rotary encoder with external interrupts, outputting a PWM signal to an LED with the option to turn its brightness up or down, as well as reset to 50%  
